@@ -1,0 +1,54 @@
+[33mcommit d329ea49b84ee59d6db71ac913c20f8ce2dd9e82[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Merge: 4510b2d 9844a54
+Author: Elizaveta <demidova.lizafetta@gmail.com>
+Date:   Sat Oct 21 13:59:03 2023 +0300
+
+    Merge branch '777777-fix' into dev
+
+[33mcommit 4510b2dd79bdca659301424d02ed40c809c7472f[m
+Author: Elizaveta <demidova.lizafetta@gmail.com>
+Date:   Sat Oct 21 13:58:37 2023 +0300
+
+    delete
+
+[33mcommit 9844a54fd4e93a28c11c60dc665e60534380c5a5[m[33m ([m[1;32m777777-fix[m[33m)[m
+Author: Elizaveta <demidova.lizafetta@gmail.com>
+Date:   Sat Oct 21 13:57:23 2023 +0300
+
+    kek kek
+
+[33mcommit 916ca803881cc68a332635e3f94dc697ce20fea5[m[33m ([m[1;32m777777[m[33m)[m
+Author: Elizaveta <demidova.lizafetta@gmail.com>
+Date:   Sat Oct 21 13:43:54 2023 +0300
+
+    fixed task 777777
+
+[33mcommit 515674dc62943883a5c561f7816e727d642d2207[m
+Author: Elizaveta <demidova.lizafetta@gmail.com>
+Date:   Sat Oct 21 13:22:37 2023 +0300
+
+    add deev
+
+[33mcommit 3061e5a34528e5c6228146628f88e197203699c6[m
+Author: Elizaveta <demidova.lizafetta@gmail.com>
+Date:   Sat Oct 21 13:19:52 2023 +0300
+
+    add dev
+
+[33mcommit 21005a42d548ea0fcc262112d07523f1172cf43e[m
+Author: Elizaveta <demidova.lizafetta@gmail.com>
+Date:   Sat Oct 21 12:11:48 2023 +0300
+
+    init
+
+[33mcommit ad3d32559222e995e7b3a6d93838a8221129c660[m
+Author: Elizaveta <demidova.lizafetta@gmail.com>
+Date:   Sat Oct 21 12:10:44 2023 +0300
+
+    add .gitignore
+
+[33mcommit 2bfb596446d3e94f776d069af6b518dd2f1a2248[m
+Author: Elizaveta <demidova.lizafetta@gmail.com>
+Date:   Sat Oct 21 12:00:40 2023 +0300
+
+    Change message
